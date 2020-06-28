@@ -18,6 +18,14 @@ h1, h2, h3, h4 {
     font-family: 'Lobster', cursive;
 }
 
+.post-header {
+    display: flex;
+}
+
+.post-header-details {
+    margin-left: auto;
+}
+
 .date {
     color: #828282;
 }
@@ -35,6 +43,7 @@ h1, h2, h3, h4 {
     float: right;
     font-size: 26pt;
     margin-right: 20px;
+    font-family: 'Lobster', cursive;
 }
 
 .post {
